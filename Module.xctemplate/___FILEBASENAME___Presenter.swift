@@ -12,12 +12,15 @@ import UIKit
 class ___FILEBASENAMEASIDENTIFIER___Presenter: ___FILEBASENAMEASIDENTIFIER___InteractorOutput
 {
     
+<<<<<<< HEAD
     var view: ___FILEBASENAMEASIDENTIFIER___ViewInterface
     
     init(view: ___FILEBASENAMEASIDENTIFIER___ViewInterface) {
         self.view = view
     }
     
+=======
+>>>>>>> 07c8dd4c4bf5a2f4e40ea1d4028e5610827df03c
     //MARK: Interface Module Methods
     
     //MARK: Interactor Output

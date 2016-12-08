@@ -10,6 +10,7 @@
 
 import UIKit
 
+<<<<<<< HEAD
 class ___FILEBASENAMEASIDENTIFIER___Interactor
 {
     var output: ___FILEBASENAMEASIDENTIFIER___InteractorOutput
@@ -17,6 +18,10 @@ class ___FILEBASENAMEASIDENTIFIER___Interactor
     init(output: ___FILEBASENAMEASIDENTIFIER___InteractorOutput) {
         self.output = output
     }
+=======
+class ___FILEBASENAMEASIDENTIFIER___Interactor: ___FILEBASENAMEASIDENTIFIER___InteractorInput
+{
+>>>>>>> 07c8dd4c4bf5a2f4e40ea1d4028e5610827df03c
     
     // MARK: Interactor Input
 
