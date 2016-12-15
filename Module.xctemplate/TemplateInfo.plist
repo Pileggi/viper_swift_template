@@ -78,23 +78,6 @@
 			<key>Type</key>
 			<string>static</string>
 		</dict>
-<<<<<<< HEAD
-=======
-		<dict>
-			<key>Default</key>
-			<string>___VARIABLE_moduleName:identifier___Router</string>
-			<key>Description</key>
-			<string>The router name</string>
-			<key>Identifier</key>
-			<string>routerName</string>
-			<key>Name</key>
-			<string>Router Name:</string>
-			<key>Required</key>
-			<true/>
-			<key>Type</key>
-			<string>static</string>
-		</dict>
->>>>>>> 07c8dd4c4bf5a2f4e40ea1d4028e5610827df03c
 	</array>
 	<key>Plataforms</key>
 	<array>
